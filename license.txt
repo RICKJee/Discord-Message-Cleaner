@@ -1,0 +1,44 @@
+Message Cleaner License v1.0
+Copyright (c) 2025 Random Python Discord
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated files (the "Software"), to use, modify, and distribute
+copies of the Software, subject to the following conditions:
+
+1. USAGE CONDITIONS
+   - You MAY use this software for personal or non-commercial purposes.
+   - You MAY modify and distribute the software as long as all conditions below are met.
+   - You MUST include proper credit to the original author: Random Python Discord.
+   - You MUST NOT use this software for illegal activities, malicious purposes, or
+     in violation of any third-party terms of service (such as Discord's).
+
+2. MODIFICATIONS
+   - Modified versions MUST clearly state that they are unofficial.
+   - You MUST NOT misrepresent modified versions as original or official.
+   - You MUST notify users that any modified version is unaffiliated with the original author.
+
+3. MONETIZATION
+   - Commercial use, resale, or monetization of this software is STRICTLY PROHIBITED.
+
+4. TOKEN AND SECURITY NOTICE
+   - If this software contains embedded credentials (such as bot tokens),
+     they are provided for update-checking or limited communication purposes only.
+   - You MUST NOT extract, reuse, or repurpose such tokens under any circumstances.
+   - The author is NOT responsible for any misuse caused by leaked or repurposed tokens.
+
+5. AUTHORITY AND OWNERSHIP
+   - The creator (Random Python Discord) retains FULL RIGHTS and OWNERSHIP over this project.
+   - The author reserves the right to:
+     - Modify, update, revoke, or discontinue the software at any time.
+     - Change the license terms without notice.
+     - Remove or replace features at their sole discretion.
+   - Use of the software implies acceptance of any future license updates posted by the author.
+
+6. WARRANTY DISCLAIMER
+   - THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+   - IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DAMAGES OR LOSS ARISING FROM USE.
+
+---
+
+For questions, help, or the latest version, visit:
+https://discord.gg/AEVnNyDZj7

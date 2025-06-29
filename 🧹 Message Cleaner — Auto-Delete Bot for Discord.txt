@@ -1,0 +1,86 @@
+---
+
+## 🧹 Message Cleaner — Auto-Delete Bot for Discord
+
+**Version:** 0.2
+**Made by:** [Random Python Discord](https://discord.gg/AEVnNyDZj7)
+**Platform:** Windows (.exe)
+
+---
+
+### 📌 What is Message Cleaner?
+
+Message Cleaner is a **lightweight, GUI-powered Discord bot manager** designed to automatically delete messages older than a specified age in your selected channels. It’s ideal for keeping logs, mod channels, or public chats clean and tidy — without needing to write code or use complex bots.
+
+---
+
+### 💡 Features
+
+* 🧼 Automatically delete messages older than X minutes
+* 📋 Manage multiple channels
+* ⚙️ Customizable check intervals
+* 📁 Auto-generated logs of deleted messages
+* 🛠️ Built-in config editor (no need to open files)
+* 🌐 Update checker via Discord
+* 🖥️ Simple dark-mode GUI (like Discord)
+* ✅ No installation required — just run the `.exe`
+
+---
+
+### 🛠️ How It Works
+
+1. Paste your Discord bot token into the GUI
+2. List the channel IDs you want cleaned
+3. Choose how old messages must be to get deleted (in minutes)
+4. Set how often to check for old messages (in seconds)
+5. Click “Save & Start” — and you're done!
+
+Your bot will now silently clean old messages in the background.
+
+---
+
+### 📍 Logs & Settings
+
+* **Logs:** Automatically saved in
+  `Documents\Random Python\Message Cleaner\logs\`
+* **Config:** Saved as
+  `config.json` in the same directory
+
+These help you keep track of deletions and make edits without re-entering details.
+
+---
+
+### 🔄 Auto Updates
+
+The app checks a Discord message for new updates. If a newer version is found, it prompts you with the changelog and opens the update thread.
+
+You can also manually check from the **About** menu.
+
+---
+
+### 🧠 Who is it for?
+
+* Community managers who want to automate cleanup
+* Developers testing bots in temporary channels
+* Servers with message retention policies
+* Anyone tired of writing Discord cleanup scripts
+
+---
+
+### 📎 Requirements
+
+* A Discord bot with the following permissions:
+
+  * `Read Message History`
+  * `Delete Messages`
+* Message Content Intent enabled on your bot’s settings
+* A Windows PC to run the `.exe`
+
+---
+
+### 📥 Download & Support
+
+> 🔗 \[Download the EXE]
+> 💬 [Join Support Server](https://discord.gg/AEVnNyDZj7)
+
+---
