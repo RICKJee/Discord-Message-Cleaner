@@ -41,9 +41,7 @@
 Configuration and logs are saved to:
 C:\Users<YourName>\Documents\Random Python\Message Cleaner\
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -67,9 +65,7 @@ pip install -r requirements.txt
 python message_cleaner_gui.py
 To build the executable using PyInstaller:
 
-bash
-Copy
-Edit
+
 pyinstaller --onefile --noconsole --icon=Cleaner_icon-icons.com_53211.ico --add-data "Cleaner_icon-icons.com_53211.ico;." message_cleaner_gui.py
 📜 License
 Message Cleaner is released under a custom license.
